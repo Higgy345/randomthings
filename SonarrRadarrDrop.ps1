@@ -6,7 +6,7 @@
 ## 
 ## Setup QBTorrent to run on torrent finished 
 ## Tools -> Options -> select check box run on torrent finished and put the following line in:
-##  Powershell Pathtoscript\SonUnrarMove.ps1 '%L' '%F' '%R' '%C' '%N' '%I'
+##  Powershell Pathtoscript\SonarrRadarrDrop.ps1 '%L' '%F' '%R' '%C' '%N' '%I'
 ## For this to work you might have to run a Set-ExecutionPolicy Bypass for this to run.
 ##
 
