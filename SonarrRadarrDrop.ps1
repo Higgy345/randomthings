@@ -1,7 +1,7 @@
 ##
 ## Original credit to a redditor (I forgot your name sorry) some modifications made to work with Sonarr V3
 ## Haven't tested with Radarr yet. 
-## Required software is WinRAR x64 installed to default location.  If you change the location modify line 53 and 63
+## Required software is WinRAR x64 installed to default location.  If you change the location modify line 59 and 66
 ## Currently this script only works with Sonarr V3 + QBTorrent
 ## 
 ## Setup QBTorrent to run on torrent finished 
